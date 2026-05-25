@@ -4,7 +4,7 @@ Head of Product (Personalization & ML) at Sunlight. Previously Senior PM at Ozon
 
 🛠 Building 0-to-1 recommendation, search, and personalization systems  
 🧪 Hands-on with AI/ML/data platforms (former engineering lead)  
-🌍 Based in Moscow, open to EU/UK/USA opportunities
+🌍 Based in Moscow, open to EU/UK/USA opportunities. Consider relocation
 
 **Currently exploring:** LLM applications in product, agentic workflows for PM tooling
 
